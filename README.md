@@ -18,7 +18,7 @@ a program listing or some preformatted text
 a bullet:
 
 Bullet
-......
+
 
 * ranie
 * dwi
@@ -26,19 +26,15 @@ Bullet
 
 a number :
 
-#. one
-#. two
+1. one
+2. two
 
 
 Simple table :
 
 +-------------------+-------------------+
-
 |Name               | Job               |
-
 +-------------------+-------------------+
-
 |Tim                | CEO               |
-
 +-------------------+-------------------+
 
