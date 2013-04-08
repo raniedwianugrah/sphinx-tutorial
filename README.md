@@ -7,6 +7,9 @@ HELLO WORLD!
 Nice to meet you ! :)
 ---------------------
 
+- sub bullet 1
+- sub bullet 2
+
 This is how you write *bold*.
 
 Tihs is how you write **italic**.
@@ -37,10 +40,5 @@ Simple table :
 +-------------------+-------------------+
 |Tim                | CEO               |
 +-------------------+-------------------+
-
-
-+----------+---------+-----------+
-|          |         |           |
-+----------+---------+-----------+
 
 
