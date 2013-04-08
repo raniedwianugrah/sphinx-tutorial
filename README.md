@@ -21,5 +21,7 @@ a bullet:
 * dwi
 * anugrah
 
-# . one
-# . two
+a number :
+
+#. one
+#. two
