@@ -17,6 +17,9 @@ a program listing or some preformatted text
 
 a bullet:
 
+Bullet
+......
+
 * ranie
 * dwi
 * anugrah
