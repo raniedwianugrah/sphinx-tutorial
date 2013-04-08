@@ -6,10 +6,6 @@ HELLO WORLD!
 
 Nice to meet you ! :)
 ---------------------
-:Review:
-  Bllaalalalalla
-  blalalalalalaa
-
 - sub bullet 1
 - sub bullet 2
 
@@ -44,4 +40,15 @@ Simple table :
 |Tim                | CEO               |
 +-------------------+-------------------+
 
+
+=====  =====  ====== 
+   Inputs     Output 
+------------  ------ 
+  A      B    A or B 
+=====  =====  ====== 
+False  False  False 
+True   False  True 
+False  True   True 
+True   True   True 
+=====  =====  ======
 
