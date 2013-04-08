@@ -9,6 +9,9 @@ Nice to meet you ! :)
 - sub bullet 1
 - sub bullet 2
 
+.. [#] yes
+.. [#] no
+
 This is how you write *bold*.
 
 Tihs is how you write **italic**.
@@ -20,7 +23,6 @@ a program listing or some preformatted text
 a bullet:
 
 Bullet
-
 
 * ranie
 * dwi
